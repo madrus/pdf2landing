@@ -1,5 +1,7 @@
 # Notes on PSD to Landing Page Course
 
+These are notes about the Udemy [PSD To a Creative Landing Page Using Twitter Bootstrap 3](https://www.udemy.com/psd-to-responsive-html5-css3-with-bootstrap-3/learn/v4/overview) course by Ehab Alaa.
+
 ## Extracting a layer from PhotoShop
 
 1. Select a layer in History
@@ -17,13 +19,12 @@ If you don't see the "Save for Web" option under File menu, type `Ctrl+Shift+Alt
 
 1. [Owl Carousel](https://github.com/OwlFonk/OwlCarousel)
 1. [Lightbox](http://lokeshdhakar.com/projects/lightbox2/)
-1. [Wow Animations](http://mynameismatthieu.com/WOW/)
-   and on [Github](https://github.com/matthieua/WOW)
+1. [Wow Animations](http://mynameismatthieu.com/WOW/), also on [Github](https://github.com/matthieua/WOW)
 1. [jQuery numbscroller Plugin](http://www.jqueryscript.net/demo/jQuery-Plugin-For-Counting-Up-Numbers-While-Scrolling-numscroller/)
 
 ## Vertical alignment
 
-There seem to be two possible ways to center vertically.
+There are two possible ways to center vertically.
 
 ### 1. Adding a new class in HTML
 
