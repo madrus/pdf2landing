@@ -19,7 +19,8 @@ If you don't see the "Save for Web" option under File menu, type `Ctrl+Shift+Alt
 
 1. [Owl Carousel](https://github.com/OwlFonk/OwlCarousel)
 1. [Lightbox](http://lokeshdhakar.com/projects/lightbox2/)
-1. [Wow Animations](http://mynameismatthieu.com/WOW/), also on [Github](https://github.com/matthieua/WOW)
+1. [Wow Animations](http://mynameismatthieu.com/WOW/), also on [Github](https://github.com/matthieua/WOW). Read [Documentation](http://mynameismatthieu.com/WOW/docs.html) 
+and [watch animations](http://daneden.github.io/animate.css/) by CSS class name.
 1. [jQuery numbscroller Plugin](http://www.jqueryscript.net/demo/jQuery-Plugin-For-Counting-Up-Numbers-While-Scrolling-numscroller/)
 
 ## Vertical alignment
@@ -54,3 +55,10 @@ Just add the following CSS code to the container style:
     align-items: center;
 }
 ```
+
+## Preview the website in VSCode
+
+*  `Ctrl-Shift-P`
+*  type `live`
+*  choose `Start live server`
+*  if you want to see the website in the browser, browse to [http://localhost:8181](http://localhost:8181)
