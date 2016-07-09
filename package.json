@@ -1,0 +1,24 @@
+{
+  "name": "psd2landing",
+  "version": "0.1.0",
+  "description": "study project",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.0.1",
+    "eslint-config-defaults": "^9.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madrus/pdf2landing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madrus/pdf2landing/issues"
+  },
+  "homepage": "https://github.com/madrus/pdf2landing#readme"
+}
