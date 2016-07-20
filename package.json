@@ -3,10 +3,22 @@
   "version": "0.1.0",
   "description": "study project",
   "main": "index.html",
-  "dependencies": {},
+  "dependencies": {
+    "good": "^7.0.1",
+    "good-console": "^6.1.2",
+    "good-squeeze": "^4.0.0",
+    "hapi": "^13.5.0",
+    "inert": "^4.0.1",
+    "path": "^0.12.7"
+  },
   "devDependencies": {
+    "babel-eslint": "^6.1.1",
     "eslint": "^3.0.1",
-    "eslint-config-defaults": "^9.0.0"
+    "eslint-config-defaults": "^9.0.0",
+    "eslint-plugin-react": "^5.2.2",
+    "hapi": "^13.5.0",
+    "jshint": "^2.9.2",
+    "jslint": "^0.10.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

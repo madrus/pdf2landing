@@ -2,6 +2,13 @@
 
 These are notes about the Udemy [PSD To a Creative Landing Page Using Twitter Bootstrap 3](https://www.udemy.com/psd-to-responsive-html5-css3-with-bootstrap-3/learn/v4/overview) course by Ehab Alaa.
 
+## Known errors
+
+In the `image` folder three files are missing and causing a 404 error:
+* `prev.png`
+* `next.png`
+* `close.png`
+
 ## Extracting a layer from PhotoShop
 
 1. Select a layer in History
@@ -61,4 +68,14 @@ Just add the following CSS code to the container style:
 *  `Ctrl-Shift-P`
 *  type `live`
 *  choose `Start live server`
-*  if you want to see the website in the browser, browse to [http://localhost:8181](http://localhost:8181)
+*  if you want to see the website in the browser, 
+browse to [http://localhost:8181](http://localhost:8181)
+
+## Hapi server
+
+* install hapi: `npm install --save hapi`
+* install nodemon: `npm install -g nodemon`
+* create `server.js` file
+* start nodemon: `nodemon -w ./ server.js`
+* browse to [http://localhost:7777](http://localhost:7777)
+
